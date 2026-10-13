@@ -1,12 +1,12 @@
 # LOX TIK CONTROL
 
-**Bản Lite hiện tại: [0.2.18 — tải bộ cài chính thức](https://github.com/loxstudio/lox-tik-control-codex/releases/tag/v0.2.18).**
+**Bản Lite hiện tại: [0.2.20 — tải bộ cài chính thức](https://github.com/loxstudio/lox-tik-control-codex/releases/tag/v0.2.20).**
 
-Giảm tải Tháp Boss khi chạy hiệu ứng Premium. Sửa mặt nạ MediaPipe lệch khung camera gây lộ nền khi di chuyển. Sửa năm minigame báo thiếu tài nguyên sau khi kích hoạt Lifetime trên bản Lite.
+Có đầy đủ **Tên AI** trong Hũ quà: 6 phong cách với ảnh mẫu thật, tạo tên, thư viện, áp dụng lên Hũ và tải PNG. Giảm tải Tháp Boss khi chạy hiệu ứng Premium. Sửa mặt nạ MediaPipe lệch khung camera gây lộ nền khi di chuyển. Sửa năm minigame báo thiếu tài nguyên sau khi kích hoạt Lifetime trên bản Lite.
 
 ## Cập nhật
 
-Trong app, chọn **Kiểm tra bản mới**. Hoặc [tải bộ cài 0.2.18](https://github.com/loxstudio/lox-tik-control-codex/releases/download/v0.2.18/LOX-TIK-CONTROL-Lite-Setup-0.2.18.exe).
+Trong app, chọn **Kiểm tra bản mới**. Hoặc [tải bộ cài 0.2.20](https://github.com/loxstudio/lox-tik-control-codex/releases/download/v0.2.20/LOX-TIK-CONTROL-Lite-Setup-0.2.20.exe).
 
 Với Lite 0.2.6–0.2.14, nếu không tải được cập nhật:
 
