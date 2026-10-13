@@ -1,12 +1,12 @@
 # LOX TIK CONTROL
 
-**Bản Lite hiện tại: [0.2.17 — tải bộ cài chính thức](https://github.com/loxstudio/lox-tik-control-codex/releases/tag/v0.2.17).**
+**Bản Lite hiện tại: [0.2.18 — tải bộ cài chính thức](https://github.com/loxstudio/lox-tik-control-codex/releases/tag/v0.2.18).**
 
-Sửa lỗi đứng hình và nạp trùng video ở hiệu ứng Premium nhiều lớp. Đồng bộ các lớp bay lên/rơi xuống; giữ nguyên chất lượng hình ảnh. Cài mới bật overlay LIVE, tắt thông tin kiểm tra Stage; thanh bản quyền hiển thị hạn App và gói Game.
+Giảm tải Tháp Boss khi chạy hiệu ứng Premium. Sửa mặt nạ MediaPipe lệch khung camera gây lộ nền khi di chuyển. Sửa năm minigame báo thiếu tài nguyên sau khi kích hoạt Lifetime trên bản Lite.
 
 ## Cập nhật
 
-Trong app, chọn **Kiểm tra bản mới**. Hoặc [tải bộ cài 0.2.17](https://github.com/loxstudio/lox-tik-control-codex/releases/download/v0.2.17/LOX-TIK-CONTROL-Lite-Setup-0.2.17.exe).
+Trong app, chọn **Kiểm tra bản mới**. Hoặc [tải bộ cài 0.2.18](https://github.com/loxstudio/lox-tik-control-codex/releases/download/v0.2.18/LOX-TIK-CONTROL-Lite-Setup-0.2.18.exe).
 
 Với Lite 0.2.6–0.2.14, nếu không tải được cập nhật:
 
@@ -16,6 +16,6 @@ Với Lite 0.2.6–0.2.14, nếu không tải được cập nhật:
 
 Công cụ giữ dữ liệu và bản quyền. Có thể cài trực tiếp bản mới thay cho bước sửa một lần.
 
-Bộ cài dùng danh tính chính thức, không QA. Đã qua 50 nhóm kiểm tra; nâng cấp trên máy khách và OBS thật cần tiếp tục kiểm tra thực tế. Bộ cài chưa ký chứng chỉ Windows.
+Bộ cài dùng danh tính chính thức, không QA. Đã qua 55 nhóm kiểm tra; nâng cấp trên máy khách và OBS thật cần tiếp tục kiểm tra thực tế. Bộ cài chưa ký chứng chỉ Windows.
 
 Kho này chứa bộ cài và hướng dẫn. Mã nguồn được quản lý trong kho riêng tư. Kênh Lite nhận cập nhật từ máy chủ LOX; nhãn GitHub Latest của kênh Full 0.2.3 cũ được giữ riêng.
