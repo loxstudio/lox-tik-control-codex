@@ -1,12 +1,14 @@
 # LOX TIK CONTROL
 
-**Bản Lite hiện tại: [0.2.21 — tải bộ cài chính thức](https://github.com/loxstudio/lox-tik-control-codex/releases/tag/v0.2.21).**
+**Bản Lite hiện tại: [0.2.24 — tải bộ cài chính thức](https://github.com/loxstudio/lox-tik-control-codex/releases/tag/v0.2.24).**
 
-Bản 0.2.21 chuyển 13 cảnh bay/rơi Premium sang giải mã GPU và dùng chung khung hình cho các lớp trên/dưới. Giảm tải khi đổi hiệu ứng, khởi động sẵn MediaPipe. Giữ đầy đủ Tên AI trong Hũ quà. Bản chính thức được phát hành để tiếp tục test trên máy khách.
+Tối ưu Stage/camera bằng GPU; sửa nền Dance, khôi phục Hũ trong OBS sau khởi động lại; đơn giản hóa Affiliate và thanh toán. Có đầy đủ Name AI, combo 5 lượt 150.000đ và Trợ lý LOX mới.
 
 ## Cập nhật
 
-Trong app, chọn **Kiểm tra bản mới**. Hoặc [tải bộ cài 0.2.21](https://github.com/loxstudio/lox-tik-control-codex/releases/download/v0.2.21/LOX-TIK-CONTROL-Lite-Setup-0.2.21.exe).
+Trong app, chọn **Kiểm tra bản mới** hoặc [tải bộ cài 0.2.24](https://github.com/loxstudio/lox-tik-control-codex/releases/download/v0.2.24/LOX-TIK-CONTROL-Lite-Setup-0.2.24.exe).
+
+Từ 0.2.24, app tự tải phiên bản mới và tự cài khi xác nhận không LIVE/ghi hình, không còn thao tác hoặc thay đổi chưa lưu. Dữ liệu và bản quyền hiện có được giữ lại.
 
 Với Lite 0.2.6–0.2.14, nếu không tải được cập nhật:
 
@@ -14,8 +16,8 @@ Với Lite 0.2.6–0.2.14, nếu không tải được cập nhật:
 2. Dừng LIVE, thoát LOX, chạy `LOX-Sua-cap-nhat.cmd`. Nếu được hỏi, chọn `LOX TIK CONTROL.exe` đã cài.
 3. Mở lại LOX và chọn **Kiểm tra bản mới**.
 
-Công cụ giữ dữ liệu và bản quyền. Có thể cài trực tiếp bản mới thay cho bước sửa một lần.
+Có thể cài trực tiếp bản mới thay cho bước sửa một lần.
 
-Bộ cài dùng danh tính chính thức, không QA. Đã qua 57 nhóm kiểm tra; nâng cấp trên máy khách và OBS thật cần tiếp tục kiểm tra thực tế. Bộ cài chưa ký chứng chỉ Windows.
+Bộ cài dùng danh tính chính thức. Đã qua kiểm tra tự động, kiểm tra nội dung bộ cài và khởi động app với dữ liệu cô lập. Cần tiếp tục thử nghiệm nâng cấp, camera và OBS thật trên máy khách; vẫn có nhịp chậm khi khởi tạo Boss. Bộ cài chưa ký chứng chỉ Windows.
 
-Kho này chứa bộ cài và hướng dẫn. Mã nguồn được quản lý trong kho riêng tư. Kênh Lite nhận cập nhật từ máy chủ LOX; nhãn GitHub Latest của kênh Full 0.2.3 cũ được giữ riêng.
+Kho này chứa bộ cài và hướng dẫn. Mã nguồn được quản lý trong kho riêng tư. Kênh Lite nhận cập nhật từ máy chủ LOX; nhãn Latest của kho công khai được giữ riêng cho bản cũ dùng kênh GitHub.
