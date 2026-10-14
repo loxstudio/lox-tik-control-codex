@@ -1,12 +1,12 @@
 # LOX TIK CONTROL
 
-**Bản Lite hiện tại: [0.2.20 — tải bộ cài chính thức](https://github.com/loxstudio/lox-tik-control-codex/releases/tag/v0.2.20).**
+**Bản Lite hiện tại: [0.2.21 — tải bộ cài chính thức](https://github.com/loxstudio/lox-tik-control-codex/releases/tag/v0.2.21).**
 
-Có đầy đủ **Tên AI** trong Hũ quà: 6 phong cách với ảnh mẫu thật, tạo tên, thư viện, áp dụng lên Hũ và tải PNG. Giảm tải Tháp Boss khi chạy hiệu ứng Premium. Sửa mặt nạ MediaPipe lệch khung camera gây lộ nền khi di chuyển. Sửa năm minigame báo thiếu tài nguyên sau khi kích hoạt Lifetime trên bản Lite.
+Bản 0.2.21 chuyển 13 cảnh bay/rơi Premium sang giải mã GPU và dùng chung khung hình cho các lớp trên/dưới. Giảm tải khi đổi hiệu ứng, khởi động sẵn MediaPipe. Giữ đầy đủ Tên AI trong Hũ quà. Bản chính thức được phát hành để tiếp tục test trên máy khách.
 
 ## Cập nhật
 
-Trong app, chọn **Kiểm tra bản mới**. Hoặc [tải bộ cài 0.2.20](https://github.com/loxstudio/lox-tik-control-codex/releases/download/v0.2.20/LOX-TIK-CONTROL-Lite-Setup-0.2.20.exe).
+Trong app, chọn **Kiểm tra bản mới**. Hoặc [tải bộ cài 0.2.21](https://github.com/loxstudio/lox-tik-control-codex/releases/download/v0.2.21/LOX-TIK-CONTROL-Lite-Setup-0.2.21.exe).
 
 Với Lite 0.2.6–0.2.14, nếu không tải được cập nhật:
 
@@ -16,6 +16,6 @@ Với Lite 0.2.6–0.2.14, nếu không tải được cập nhật:
 
 Công cụ giữ dữ liệu và bản quyền. Có thể cài trực tiếp bản mới thay cho bước sửa một lần.
 
-Bộ cài dùng danh tính chính thức, không QA. Đã qua 55 nhóm kiểm tra; nâng cấp trên máy khách và OBS thật cần tiếp tục kiểm tra thực tế. Bộ cài chưa ký chứng chỉ Windows.
+Bộ cài dùng danh tính chính thức, không QA. Đã qua 57 nhóm kiểm tra; nâng cấp trên máy khách và OBS thật cần tiếp tục kiểm tra thực tế. Bộ cài chưa ký chứng chỉ Windows.
 
 Kho này chứa bộ cài và hướng dẫn. Mã nguồn được quản lý trong kho riêng tư. Kênh Lite nhận cập nhật từ máy chủ LOX; nhãn GitHub Latest của kênh Full 0.2.3 cũ được giữ riêng.
