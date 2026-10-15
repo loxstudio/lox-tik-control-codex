@@ -1,20 +1,20 @@
 # LOX TIK CONTROL
 
-**Bản Lite hiện tại: [0.2.30 — tải bộ cài chính thức](https://github.com/loxstudio/lox-tik-control-codex/releases/tag/v0.2.30).**
+**Bản Lite hiện tại: [0.2.31 — tải bộ cài chính thức](https://github.com/loxstudio/lox-tik-control-codex/releases/tag/v0.2.31).**
 
-Bản vá khẩn cấp: sửa quà LIVE không chạy hiệu ứng theo preset, nhận đúng ID TikTok dài và tránh dừng toàn bộ hàng chờ vì một quà bị từ chối. Giữ các cải tiến GPU, thumbnail và nhớ thư mục video của 0.2.29.
+Bản mới sửa nhãn menu quà còn giữ ngưỡng combo từ preset cũ, giữ tên tùy chỉnh và gán quà hiện tại. Tiếp tục có các bản sửa tiếp nhận quà LIVE, GPU, thumbnail và nhớ thư mục video của 0.2.30.
 
 Giữ đầy đủ Name AI, tiếng cười/cartoon SFX Master Troll và các tính năng đã có. Hiệu ứng dài có thể phát hai tiếng cười. VIP nhận miễn phí mọi hiệu ứng mới trong kỳ một năm, gồm bộ lễ hội và chủ đề.
 
-Đã kiểm tra 18 preset / 549 ô bằng gói tin phát lại qua bộ đọc TikTok thực tế và 83 nhóm regression. Chưa nghiệm thu bằng quà trả tiền trên LIVE thật; các giới hạn thử nghiệm GPU/OBS của bản trước vẫn còn.
+Đã kiểm tra 86 nhóm regression, bộ cài và khởi động bằng hồ sơ riêng. Bản 0.2.31 được phát hành để thử update; chưa nghiệm thu Windows sạch/OBS/máy khách thực tế. Quà chưa được gán trong preset vẫn cần chọn hiệu ứng mong muốn trước khi sử dụng.
 
 ## Cập nhật
 
-Trong app, chọn **Kiểm tra bản mới** hoặc [tải bộ cài 0.2.30](https://github.com/loxstudio/lox-tik-control-codex/releases/download/v0.2.30/LOX-TIK-CONTROL-Lite-Setup-0.2.30.exe).
+Trong app, chọn **Kiểm tra bản mới** hoặc [tải bộ cài 0.2.31](https://github.com/loxstudio/lox-tik-control-codex/releases/download/v0.2.31/LOX-TIK-CONTROL-Lite-Setup-0.2.31.exe).
 
 App tự tải phiên bản mới và tự cài khi xác nhận không LIVE/ghi hình, không còn thao tác hoặc thay đổi chưa lưu. Dữ liệu và bản quyền hiện có được giữ lại.
 
-**Nếu bản cũ tải xong nhưng không cài được:** dừng LIVE, thoát LOX rồi chạy bộ cài 0.2.30 ở liên kết trên. Không cần gỡ app hoặc xóa dữ liệu.
+**Nếu bản cũ tải xong nhưng không cài được:** dừng LIVE, thoát LOX rồi chạy bộ cài 0.2.31 ở liên kết trên. Không cần gỡ app hoặc xóa dữ liệu.
 
 Với Lite 0.2.6–0.2.14, nếu không tải được cập nhật:
 
