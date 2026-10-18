@@ -1,12 +1,14 @@
 # LOX TIK CONTROL
 
-**Bản Lite hiện tại: [0.2.34 — tải bộ cài chính thức](https://github.com/loxstudio/lox-tik-control-codex/releases/tag/v0.2.34).**
+**Bản Lite hiện tại: [0.2.35 — tải bộ cài chính thức](https://github.com/loxstudio/lox-tik-control-codex/releases/tag/v0.2.35).**
 
-Bản mới thêm **Gallery → Phòng trưng bày**: lấy tiến trình phòng quà trực tiếp từ TikTok, chiếu từng thẻ lên Stage, thắp sáng quà hoàn thành và làm nổi bật quà lớn. Có nhiều lựa chọn màu, chuyển cảnh, vị trí, kích thước, thứ tự và chế độ xem mẫu.
+Bản mới bổ sung **cấu hình Google Desktop** trong bộ cài, sửa **Stage không phủ kín màn dọc** và cải thiện bắt hình cửa sổ **Cam Link 4K/iVCam**. Giữ đầy đủ **Gallery → Phòng trưng bày** và các tính năng hiện có.
 
-Đồng thời thu gọn giao diện Gallery/menu, thêm thao tác Stage và âm lượng game nhanh, cải thiện mở Filter trên màn hình phụ, tự co video OBS và cập nhật app khi đủ điều kiện an toàn.
+Bộ cài được kiểm tra độc lập sau đóng gói. Phát hành theo yêu cầu chủ dự án để test lại trên máy khách số 2; nghiệm thu LIVE/OBS và đăng nhập Google trên máy khách vẫn đang chờ.
 
-Bộ cài được kiểm tra độc lập sau đóng gói. Phát hành theo yêu cầu chủ dự án để test Phòng trưng bày trên LIVE; nghiệm thu LIVE/OBS thực tế vẫn đang chờ.
+## Test Stage và Google
+
+Mở cửa sổ Cam Link 4K đang có hình, chọn màn dọc dành cho Stage rồi mở Stage. Kiểm tra Stage phủ kín màn hình và nhận hình. Vào **LOX Tài khoản → Đăng nhập Google** để thử đăng nhập; không cần nhập file cấu hình Google.
 
 ## Test Phòng trưng bày
 
@@ -14,7 +16,7 @@ Kết nối kênh đang LIVE trong app. Vào **Gallery → Phòng trưng bày �
 
 ## Cập nhật
 
-Trong app, chọn **Kiểm tra bản mới** hoặc [tải bộ cài 0.2.34](https://github.com/loxstudio/lox-tik-control-codex/releases/download/v0.2.34/LOX-TIK-CONTROL-Lite-Setup-0.2.34.exe).
+Trong app, chọn **Kiểm tra bản mới** hoặc [tải bộ cài 0.2.35](https://github.com/loxstudio/lox-tik-control-codex/releases/download/v0.2.35/LOX-TIK-CONTROL-Lite-Setup-0.2.35.exe).
 
 **Dừng LIVE/ghi hình, hoàn tất hàng chờ và lưu các thay đổi trước khi cập nhật.** App chỉ tự cài khi đủ điều kiện an toàn và các thay đổi đã được lưu. Không cần gỡ app hoặc xóa dữ liệu/bản quyền hiện có.
 
