@@ -1,16 +1,22 @@
 # LOX TIK CONTROL
 
-**Bản Lite hiện tại: [0.2.33 — tải bộ cài chính thức](https://github.com/loxstudio/lox-tik-control-codex/releases/tag/v0.2.33).**
+**Bản Lite hiện tại: [0.2.34 — tải bộ cài chính thức](https://github.com/loxstudio/lox-tik-control-codex/releases/tag/v0.2.34).**
 
-Bản mới sửa luồng khách kết nối LIVE nhưng chưa nhận hiệu ứng, hiển thị rõ quyền nhận tương tác và tự thử lại khi xác minh tạm gián đoạn. Máy Owner được phép test cùng khách trên một Idol; quy tắc bản quyền giữa các khách hàng vẫn giữ nguyên. Stage tự co cửa sổ theo màn hình khi chọn độ phân giải lớn, tích hợp Gallery và sửa phục hồi Mascot; đồng thời cải thiện đăng ký bản quyền lần đầu. Giữ các tính năng và bản sửa đã có ở 0.2.32.
+Bản mới thêm **Gallery → Phòng trưng bày**: lấy tiến trình phòng quà trực tiếp từ TikTok, chiếu từng thẻ lên Stage, thắp sáng quà hoàn thành và làm nổi bật quà lớn. Có nhiều lựa chọn màu, chuyển cảnh, vị trí, kích thước, thứ tự và chế độ xem mẫu.
 
-Mã ứng dụng và runtime khớp bản đã qua 116 nhóm kiểm thử hồi quy. Bộ cài chính thức đã kiểm tra riêng về nội dung, khởi động và cấu hình cập nhật. Phát hành theo yêu cầu chủ dự án để tiếp tục test trên máy khách; nghiệm thu LIVE thực tế vẫn đang chờ. Không coi các kiểm thử tự động là kết quả nghiệm thu LIVE.
+Đồng thời thu gọn giao diện Gallery/menu, thêm thao tác Stage và âm lượng game nhanh, cải thiện mở Filter trên màn hình phụ, tự co video OBS và cập nhật app khi đủ điều kiện an toàn.
+
+Bộ cài được kiểm tra độc lập sau đóng gói. Phát hành theo yêu cầu chủ dự án để test Phòng trưng bày trên LIVE; nghiệm thu LIVE/OBS thực tế vẫn đang chờ.
+
+## Test Phòng trưng bày
+
+Kết nối kênh đang LIVE trong app. Vào **Gallery → Phòng trưng bày → Kết nối TikTok** nếu cần đăng nhập, rồi bấm **Đồng bộ**. Bật **Hiện trên LIVE** và mở Stage. Nút **Xem mẫu** giúp thử giao diện trong app, không phát dữ liệu mẫu lên LIVE.
 
 ## Cập nhật
 
-Trong app, chọn **Kiểm tra bản mới** hoặc [tải bộ cài 0.2.33](https://github.com/loxstudio/lox-tik-control-codex/releases/download/v0.2.33/LOX-TIK-CONTROL-Lite-Setup-0.2.33.exe).
+Trong app, chọn **Kiểm tra bản mới** hoặc [tải bộ cài 0.2.34](https://github.com/loxstudio/lox-tik-control-codex/releases/download/v0.2.34/LOX-TIK-CONTROL-Lite-Setup-0.2.34.exe).
 
-**Dừng LIVE/ghi hình, hoàn tất hàng chờ và lưu các thay đổi trước khi cập nhật.** App giữ cơ chế xác nhận an toàn trước khi cài. Không cần gỡ app hoặc xóa dữ liệu/bản quyền hiện có.
+**Dừng LIVE/ghi hình, hoàn tất hàng chờ và lưu các thay đổi trước khi cập nhật.** App chỉ tự cài khi đủ điều kiện an toàn và các thay đổi đã được lưu. Không cần gỡ app hoặc xóa dữ liệu/bản quyền hiện có.
 
 Nếu bản cũ tải xong nhưng không cài được: dừng LIVE, thoát LOX rồi chạy bộ cài ở liên kết trên.
 
